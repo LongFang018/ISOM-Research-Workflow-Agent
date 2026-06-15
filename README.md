@@ -123,6 +123,28 @@ Use $paper-research-workflow in combined IS/OM reviewer mode.
 Separate what an IS reviewer would attack from what an OM reviewer would attack.
 ```
 
+## ⚖️ Ethics & AI Policy Guidelines
+
+> [!IMPORTANT]
+> This framework is designed to serve as an intellectual sparring partner and a structural drafting aid for academic reviewers. Before pasting any text from an active, unpublished invitation to review, please ensure your usage aligns with journal-specific policies.
+
+### 1. Compliance with Journal AI Policies
+Different publishers and societies have distinct, strict regulations regarding the use of Generative AI in the peer-review process. **Always verify the specific journal's policy before processing any text.** For example:
+*   **Elsevier:** Explicitly states that peer reviewers must *not* upload a submitted manuscript or any part of it into generative AI tools, as it violates confidentiality and proprietary rights.
+*   **Springer Nature:** Requires that peer reviewers do *not* upload manuscripts into generative AI tools to protect the confidentiality of the authors' intellectual property.
+*   **INFORMS (e.g., Service Science):** Emphasizes that all review conclusions remain the sole responsibility of the human reviewer, and warns that uploading manuscripts to public-domain AI servers may constitute a breach of confidentiality and copyright laws.
+
+### 2. Best Practices for Safe Use
+If you wish to utilize this framework while fully adhering to the strict confidentiality policies above, consider these safe alternatives:
+*   **Abstract/Paraphrase Only:** Input only highly aggregated, anonymized summaries or self-authored notes rather than the original manuscript text.
+*   **Methodology Inquiries:** Use the modes to query specific methodological setups (e.g., *"How would an OM reviewer critique a Double Machine Learning approach with X limitations?"*) rather than pasting raw paper content.
+*   **Structural Refinement:** Use the workflow to structure and polish your *own* rough review notes into standard journal formats.
+
+### 3. Human-in-the-Loop & Accountability
+*   **Objective Tone:** The feedback generated should remain constructive, peer-focused, and intellectually rigorous. 
+*   **Sole Accountability:** AI-generated suggestions are strictly supplementary. The final review report, its scholarly accuracy, and the editorial recommendation are entirely your responsibility as the invited expert.
+
+
 ## Generate a Blank Workbook
 
 The Skill includes a small script for creating Markdown workbooks.
