@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Research Workflow"
+  short_description: "Deep paper reading into variables and reviews"
+  default_prompt: "Use $paper-research-workflow to read this paper deeply, extract variables, audit methods, map contributions and gaps, and produce IS/OM reviewer notes."
