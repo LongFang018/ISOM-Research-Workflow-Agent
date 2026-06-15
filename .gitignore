@@ -1,0 +1,10 @@
+.DS_Store
+.Rhistory
+__pycache__/
+*.pyc
+.venv/
+venv/
+paper-workbook.md
+literature-workbook.md
+review-workbook.md
+full-workbook.md
